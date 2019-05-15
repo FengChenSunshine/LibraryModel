@@ -17,5 +17,5 @@ Step 1. Add the JitPack repository to your build file,Add it in your root build.
 Step 2. Add the dependency
 
     dependencies {
-	          implementation 'com.github.FengChenSunshine:LibraryModel:Tag'
+	          implementation 'com.github.FengChenSunshine:LibraryModel:v1.0.0'
 	  }
